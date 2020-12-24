@@ -10,6 +10,10 @@ public class Hello {
     private String name;
     private String age;
     private String sex;
+    
+    public static void main(String[] args) {
+		System.out.println("this is 1223测试");
+	}
 
     public static void main(String[] args) {
         System.out.println("this is new 测试");
