@@ -13,9 +13,6 @@ public class Hello {
     
     public static void main(String[] args) {
 		System.out.println("this is 1223测试");
-	}
-
-    public static void main(String[] args) {
         System.out.println("this is new 测试");
     }
 
@@ -31,15 +28,15 @@ public class Hello {
         return sex;
     }
 
+    public void setSex(String sex) {
+        this.sex = sex;
+    }
+
     public void setName(String name) {
         this.name = name;
     }
 
     public void setAge(String age) {
         this.age = age;
-    }
-
-    public void setSex(String sex) {
-        this.sex = sex;
     }
 }
