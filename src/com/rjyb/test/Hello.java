@@ -12,7 +12,7 @@ public class Hello {
     private String sex;
     
     public static void main(String[] args) {
-		System.out.println("this is 1223测试");
+        System.out.println("this is 1223测试");
         System.out.println("this is new 测试");
     }
 
