@@ -5,6 +5,8 @@ public class Test {
     private int age;
 
     private String number;
+    
+    private String user;
 
     public String getName() {
         return name;
