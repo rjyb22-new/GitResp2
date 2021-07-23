@@ -26,7 +26,8 @@ public class Test {
         this.age = age;
     }
     
-    public void toString(){
+    public String toString(){
         System.out.println("name"+name);
+        return null;
     }
 }
