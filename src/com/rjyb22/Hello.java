@@ -1,4 +1,4 @@
-package com.rjyb22
+package com.rjyb22;
 
 public class Hello{
 
